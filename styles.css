@@ -127,7 +127,7 @@ h2 {
 
 /* Rodapé */
 footer {
-    background-color: #f3e9e2;
+    background-color: #2835eb;
     color: #444;
     padding: 20px 0;
     text-align: center;
@@ -138,5 +138,5 @@ footer {
 footer p {
     margin: 0;
     font-size: 1rem;
-    color: #b1746f;
+    color: #ffffff;
 }
